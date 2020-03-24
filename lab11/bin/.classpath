@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="access-control"/>
+	<classpathentry kind="src" path="characteristic-based"/>
+	<classpathentry kind="src" path="policy-enforcement"/>
+	<classpathentry kind="src" path="thread-pooling"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
